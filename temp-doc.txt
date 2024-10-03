@@ -1,0 +1,11 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+
+The command serves to copy all the files started with "temp-" created before to the current directory.
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+
+Because the current repository is already a git repository.
+
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+
+Yes, by using the commands "git add" and "git commit".
